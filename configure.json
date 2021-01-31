@@ -1,0 +1,58 @@
+{
+    "entry_name": {
+        "name": "name",
+        "pos": [0, 20],
+        "type": "Entry",
+        "size": 1,
+        "command_id": 666
+    },
+    "entry_surname": {
+        "name": "surname",
+        "pos": [100, 20],
+        "type": "Entry",
+        "size": 1,
+        "command_id": 666
+    },
+    "entry_patronymic": {
+        "name": "patronymic",
+        "pos": [200, 20],
+        "type": "Entry",
+        "size": 1,
+        "command_id": 666
+    },
+    "entry_phone": {
+        "name": "phone",
+        "pos": [0, 70],
+        "type": "Entry",
+        "size": 3,
+        "command_id": 666
+    },
+    "entry_e-mail": {
+        "name": "e-mail",
+        "pos": [0, 120],
+        "type": "Entry",
+        "size": 3,
+        "command_id": 666
+    },
+    "entry_note": {
+        "name": "note",
+        "pos": [0, 170],
+        "type": "Entry",
+        "size": 3,
+        "command_id": 666
+    },
+    "button_add": {
+        "name": "➕",
+        "pos": [50, 220],
+        "type": "Button",
+        "size": 1,
+        "command_id": 0
+    },
+    "button_find": {
+        "name": "🔍",
+        "pos": [150, 220],
+        "type": "Button",
+        "size": 1,
+        "command_id": 1
+    }
+}
